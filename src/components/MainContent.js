@@ -1,8 +1,7 @@
 import React from 'react'
 import "./MainContent.css";
 import Header from "./Header";
-
-
+import useState from "react";
 function MainContent(props) {
    
   return (
@@ -23,9 +22,7 @@ function MainContent(props) {
           </button>
           {props.matches > 0 ? (
             <h5 className="matchline">Total {props.matches} matches Found!</h5>
-          ) : (
-            <h5 className="matchline">Total 0 matches Found!</h5>
-          )}
+          ) : ""}
         </form>
       </div>
     </main>
