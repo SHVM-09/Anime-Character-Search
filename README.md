@@ -8,6 +8,3 @@
 
 ○ By default, the page shows the top 15 characters if the user did not search anything
 
-
-# JikanApi-CharacterAnimeSearch
-# JikanApi-CharacterAnimeSearch
