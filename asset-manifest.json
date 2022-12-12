@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Anime-Character-Search/static/css/main.8be9dfb7.css",
+    "main.js": "/Anime-Character-Search/static/js/main.14a64f1f.js",
+    "static/media/animes.jpg": "/Anime-Character-Search/static/media/animes.50a7424486abb4a4bbe9.jpg",
+    "index.html": "/Anime-Character-Search/index.html",
+    "main.8be9dfb7.css.map": "/Anime-Character-Search/static/css/main.8be9dfb7.css.map",
+    "main.14a64f1f.js.map": "/Anime-Character-Search/static/js/main.14a64f1f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8be9dfb7.css",
+    "static/js/main.14a64f1f.js"
+  ]
+}
